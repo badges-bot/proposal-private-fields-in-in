@@ -1,5 +1,7 @@
 # Ergonomic brand checks for Private Fields
 
+![Stage 4](https://badges.aleen42.com/src/tc39_5.svg)
+
 EcmaScript Proposal, specs, and reference implementation to provide brand checks without exceptions.
 
 Spec drafted by [@ljharb](https://github.com/ljharb).
